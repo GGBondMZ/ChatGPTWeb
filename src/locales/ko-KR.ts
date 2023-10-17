@@ -25,7 +25,7 @@ export default {
     success: '성공',
     failed: '실패',
     verify: '검증',
-    unauthorizedTips: '인증되지 않았습니다. 먼저 확인하십시오.',
+    unauthorizedTips: '😇😇😇😇😇',
     stopResponding: '응답 중지',
   },
   chat: {

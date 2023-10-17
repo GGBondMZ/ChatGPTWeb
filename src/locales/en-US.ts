@@ -25,7 +25,7 @@ export default {
     success: 'Success',
     failed: 'Failed',
     verify: 'Verify',
-    unauthorizedTips: 'Unauthorized, please verify first.',
+    unauthorizedTips: '😇😇😇😇😇',
     stopResponding: 'Stop Responding',
   },
   chat: {
